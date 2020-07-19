@@ -21,4 +21,4 @@ Installation instructions for aws-vault (An excellent AWS Access Key manager) ca
  - Setting this up was surprisingly easy thanks to EKS doing the heavy lifting. There are really only two important resources in the terraform config: The cluster itself and the worker nodes. See [cluster.tf](https://github.com/reschouw/terraform-eks/blob/master/eks/cluster.tf) and [nodes.tf](https://github.com/reschouw/terraform-eks/blob/master/eks/nodes.tf)
 
 ### Author
-Ryan Schouweiler:x
+Ryan Schouweiler
